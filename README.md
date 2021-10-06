@@ -7,7 +7,7 @@ This system enables the company to make their services available to the public t
 
 # Clone this Repo
 
-   * https://github.com/VikasMeshram2708/Car-Rental-System.git
+   * https://github.com/LalitJoshi25/CarRentalSystem.git
    
 # Change the Directory
    * cd Car-Rental-System
